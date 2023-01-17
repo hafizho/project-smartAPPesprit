@@ -1,0 +1,1 @@
+curl --url 'smtps://smtp.gmail.com:465' --ssl-reqd   --mail-from 'alabenhmida1998@gmail.com' --mail-rcpt 'alaeddine.benhmida@esprit.tn'   --upload-file test.txt --user 'alabenhmida1998@gmail.com:messiandzidane1998'
